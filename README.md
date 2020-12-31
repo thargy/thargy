@@ -4,7 +4,7 @@ Hi, I'm Craig Dean, a 'semi-retired' ex-CEO from Oldham, Manchester, UK.  I've b
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thargy&label=Profile%20views&color=0e75b6&style=flat" alt="thargy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thargy" alt="thargy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thargy&theme=darkhub" alt="thargy" /></a> </p>
 
 - 📝 I regularly write articles on [https://thargy.com](https://thargy.com)
 
