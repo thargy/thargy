@@ -6,7 +6,7 @@
 - 📄 Learn about my experiences [linkedin.com/in/thargy](linkedin.com/in/thargy)
 - 📄 Checkout my [DevDecoder projects](https://github.com/DevDecoder)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thargy&theme=darkhub&rank=SECRET,SSS SS,S,AAA,AA,A" alt="thargy" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=thargy&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me via social media:</h3>
 <p align="left">
