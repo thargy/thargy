@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Craig Dean</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=thargy&label=Profile%20views&color=0e75b6&style=flat" alt="thargy" /> </p>
-<p align="left">A 'semi-retired' ex-CEO from Oldham, Manchester, UK. I've been developing software for nearly 40 years (since I was 6!), and have never stopped learning.  I frequently mentor and teach students starting in the industry, and love sharing my passion for Software engineering. I persue projects in all kinds of fields, wherever my wandering interests take me, and I love contributing to OS projects - always being willing to generate a helpful PR.</p>
+<p align="left">A 'semi-retired' ex-CEO from Oldham, Manchester, UK. I've been developing software for nearly 40 years (since I was 6!), and have never stopped learning.  I frequently mentor and teach students starting in the industry, and love sharing my passion for Software engineering. I pursue projects in all kinds of fields, wherever my wandering interests take me, and I love contributing to OS projects - always being willing to generate a helpful PR.</p>
 
 - 📝 I have some articles on [thargy.com](thargy.com)
 - 📄 Learn about my experiences [linkedin.com/in/thargy](linkedin.com/in/thargy)
