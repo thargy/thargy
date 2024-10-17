@@ -9,7 +9,7 @@
 - 📄 Learn about my experiences [linkedin.com/in/thargy](linkedin.com/in/thargy)
 - 📄 Checkout my [DevDecoder projects](https://github.com/DevDecoder)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thargy&theme=dark_lover&margin-w=32&margin-h=16&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thargy&theme=gitdimmed&margin-w=32&margin-h=16&column=7&no-frame=true&no-bg=true&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me via social media:</h3>
 <p align="left">
