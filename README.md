@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Craig Dean</h1>
+<h1 align="center">Hi 👋, I'm Craig Dean, MSc (Cambs), MBCS</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thargy&label=Profile%20views&color=blueviolet) [![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-donate-yellow.svg)](https://www.buymeacoffee.com/thargy) 
 
 
-<p align="left">A 'semi-retired' ex-CEO from Oldham, Manchester, UK. I've been developing software for over 40 years (since I was 6!), and have never stopped learning.  I frequently mentor and teach students starting in the industry, and love sharing my passion for Software engineering. I pursue projects in all kinds of fields, wherever my wandering interests take me, and I love contributing to OS projects - always being willing to generate a helpful PR.</p>
+<p align="left"> An 'ex-retired', ex-CEO from Oldham, Manchester, UK. I've been developing software for well over 40 years (since I was 6!), and have never stopped learning.  Indeed, I achieved my QTS & PGCE aged 50, and I now teach KS3-5 (11-18-year-olds) Computer Science and love sharing my passion for Software engineering. I pursue projects in all kinds of fields, wherever my wandering interests take me, and I love contributing to OS projects - always being willing to generate a helpful PR.</p>
 
 - 📝 I have some articles on [thargy.com](thargy.com)
 - 📄 Learn about my experiences [linkedin.com/in/thargy](linkedin.com/in/thargy)
